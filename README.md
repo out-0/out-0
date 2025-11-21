@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="assets/code_header.svg" alt="CODE" />
+</div>
+
 ## Hi there 👋
 
 <!--
