@@ -5,7 +5,7 @@
 </div>
 
 
-- 🌱 I’m currently learning C language and Python
+- 🌱 ***I’m currently learning C language and Python***
 
 <!--
 **out-0/out-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
