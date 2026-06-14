@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="assets/header-banner.png" alt="CODE ASCII Art Banner" />
-</div>
+**HY there**
 
 <!--
 **out-0/out-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
